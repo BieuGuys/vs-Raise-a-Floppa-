@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GeimingBob.png"><SubTexture name="GeimingBob Down0000" x="0" y="0" width="1160" height="901" frameX="0" frameY="0" frameWidth="1160" frameHeight="901" />
+<SubTexture name="GeimingBob Down0001" x="1160" y="0" width="1160" height="901" frameX="0" frameY="0" frameWidth="1160" frameHeight="901" />
+<SubTexture name="GeimingBob Up0000" x="2320" y="0" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="GeimingBob Up0001" x="0" y="901" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="GeimingBob Up0002" x="1160" y="901" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="GeimingBob Left0000" x="2320" y="901" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="GeimingBob Left0001" x="0" y="1799" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="GeimingBob Left0002" x="1160" y="1799" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="GeimingBob Right0000" x="2320" y="1799" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="GeimingBob Right0001" x="0" y="2697" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="GeimingBob Right0002" x="1160" y="2697" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="GeimingBob Idle0000" x="2320" y="2697" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="GeimingBob Idle0001" x="0" y="3595" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="GeimingBob Idle0002" x="1160" y="3595" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+</TextureAtlas>
